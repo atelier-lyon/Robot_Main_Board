@@ -5,17 +5,17 @@
 This is the main board
 
 ## Images:
-### Schematic:
+### [Schematic](Export/schematics.pdf):
 ![](View/schematics/Robot.svg)
 
-### PCB:
+### [PCB](Export/schematics.pdf):
 | Front | Bottom |
 :------:|:-------:
-|![](View/pcb/Robot-top.svg)| ![](View/pcb/KibotTest-bottom.svg)|
+|![](View/pcb/Robot-top.svg)| ![](View/pcb/Robot-bottom.svg)|
 ### 3D:
 | Front | Bottom |
 :------:|:-------:
-|![](View/3D/Robot-3D_top.png)| ![](View/3D/KibotTest-3D_bottom.png)|
+|![](View/3D/Robot-3D_top.png)| ![](View/3D/Robot-3D_bottom.png)|
 
 ## Others:
-- [Interactive BOM](Export/ibom/Robot-ibom.html)
+- [Interactive BOM](Export/ibom/Robot-ibom.html) (Download it and use it)
