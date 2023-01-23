@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "TestPoint")(type "KiCad")(uri "/home/floride/Documents/Work/Kicad/Local/Library/TestPoint/TestPoint.pretty")(options "")(descr ""))
+)
